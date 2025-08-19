@@ -11,16 +11,6 @@ This script automatically extracts the actual paper titles and renames them to:
 - `Feminist HCI: Taking Stock and Outlining an Agenda for Design.pdf`
 
 
-## ✨ Features
-
-- **Smart title extraction** using multiple strategies (metadata, content analysis)
-- **Handles complex titles** with colons, subtitles, and special formatting
-- **Avoids duplicates** with intelligent conflict resolution
-- **Skips already renamed files** to prevent re-processing
-- **Cross-platform** compatible (Windows, Mac, Linux)
-- **Detailed logging** shows exactly what was processed
-- **Safe operation** - preserves original files if extraction fails
-
 ## 🚀 Quick Start
 
 ### Prerequisites
