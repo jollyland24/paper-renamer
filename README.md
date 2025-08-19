@@ -67,26 +67,14 @@ The script uses a multi-step approach to extract titles:
 ```
 your-project/
 ├── rename_papers.py          # Main script
-├── README.md                 # This file
 └── your-pdf-folder/          # Folder with PDFs to rename
     ├── random_name_1.pdf
     ├── random_name_2.pdf
     └── ...
 ```
 
-## 🛡️ Safety Features
-
-- **Non-destructive**: Only renames files, doesn't modify PDF content
-- **Conflict handling**: Automatically handles duplicate names with numbering
-- **Skip protection**: Won't re-process files that already have good names
-- **Error handling**: Continues processing even if individual files fail
-- **Validation**: Checks folder existence before processing
-
 ## 📄 License
 
 MIT License - feel free to use, modify, and distribute.
 
 
----
-
-**Happy organizing!** 📚✨
